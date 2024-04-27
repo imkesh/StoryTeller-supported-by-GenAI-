@@ -1,3 +1,4 @@
+
 # StoryTeller
 
 ## Introduction
@@ -19,23 +20,29 @@ StoryTeller is a robust application designed to enhance storytelling with the ai
 1. Clone the repository:
    ```bash
    git clone https://github.com/imkesh/StoryTeller-supported-by-GenAI-.git
-Navigate to the storyTeller directory:
+   ```
+2. Navigate to the `storyTeller` directory:
    ```bash
    cd storyTeller
-
-Install dependencies:
+   ```
+3. Install dependencies:
    ```bash
    npm install
+   ```
 
-### Python API
-Configuration: Ensure Python is properly configured to handle backend requests.
-Dependencies: Install required Python libraries as specified in the requirements.txt.
-Usage
+## Python API
+- **Configuration:** Ensure Python is properly configured to handle backend requests.
+- **Dependencies:** Install required Python libraries as specified in the `requirements.txt`.
+
+## Usage
 To start the application:
-
-   ```bash
-   npm start
-
+```bash
+npm start
+```
 Interact with the GUI to input story elements. The backend AI will generate a narrative based on your inputs.
 
-We welcome contributions to improve StoryTeller. Please review CONTRIBUTING.md for contribution guidelines.
+## Contributing
+We welcome contributions to improve StoryTeller. Please review `CONTRIBUTING.md` for contribution guidelines.
+
+## License
+This project is licensed under the MIT License. See `LICENSE` for more details.
