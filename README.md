@@ -1,8 +1,51 @@
 
 # StoryTeller
 
-## Introduction
-StoryTeller is a robust application designed to enhance storytelling with the aid of Generative AI, combining TypeScript and Python to deliver a seamless and interactive experience.
+# 🚀 GenAI-Powered Figma Plugin for Automated User Story Generation  
+
+## 📌 Overview  
+This **Generative AI-powered Figma Plugin** automates the process of converting UI/UX designs into structured **user stories, acceptance criteria, and development tasks**. By leveraging **Natural Language Processing (NLP), Large Language Models (LLMs), and automation algorithms**, this tool enhances Agile workflows by reducing manual effort in translating visual designs into engineering requirements.
+
+---
+
+## 🎯 Key Features  
+✅ **AI-driven Automation** – Instantly converts Figma designs into structured Agile user stories.  
+✅ **Enhanced Collaboration** – Bridges the gap between designers, product managers, and developers.  
+✅ **Time-Saving Efficiency** – Reduces manual effort by up to **70%**, accelerating project workflows.  
+✅ **Customizable Output** – Supports various Agile methodologies (**Scrum, Kanban, SAFe**).  
+✅ **Seamless Integrations** – Connects with **Jira, Trello, Asana**, and other project management tools.  
+
+---
+
+## 👥 Who Can Benefit?  
+🔹 **Software Development Companies** – Streamline product development and Agile workflows.  
+🔹 **Tech Startups** – Reduce onboarding time for new developers with structured user stories.  
+🔹 **Product & UI/UX Design Teams** – Automates documentation, allowing designers to focus on creativity.  
+🔹 **Agile Teams & Project Managers** – Simplifies backlog grooming and user story generation.  
+🔹 **Freelancers & Small Dev Teams** – Easily structure development tasks from Figma designs.  
+
+---
+
+## 🛠️ Technologies Used  
+- **Front-End:** React, JavaScript, TypeScript, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **AI & NLP:** OpenAI GPT, LangChain, Python (for AI processing)  
+- **Database:** MongoDB, Firebase  
+- **Integrations:** Figma API, Jira API, Trello API  
+- **Deployment:** Docker, AWS, Vercel  
+
+---
+
+## 📦 Installation & Setup  
+### Prerequisites  
+- Node.js & npm installed  
+- A Figma account with developer API access  
+
+### Steps to Run Locally  
+1. **Clone the repository:**  
+   ```sh
+   git clone https://github.com/your-username/genai-figma-plugin.git
+   cd genai-figma-plugin
 
 ## Features
 - **Generative AI Integration:** Leverages cutting-edge AI models to dynamically generate stories based on user inputs.
